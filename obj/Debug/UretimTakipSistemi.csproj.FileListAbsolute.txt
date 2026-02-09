@@ -1,0 +1,119 @@
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\obj\Debug\UretimTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\obj\Debug\UretimTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\UretimTakipSistemi.dll.config
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\UretimTakipSistemi.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\UretimTakipSistemi.pdb
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\csc.exe
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\csc.exe.config
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\csc.rsp
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\csi.exe
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\csi.exe.config
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\csi.rsp
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\System.Buffers.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\System.Memory.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\vbc.exe
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\vbc.exe.config
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\vbc.rsp
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\VBCSCompiler.exe
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\Antlr3.Runtime.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\Newtonsoft.Json.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\WebGrease.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\Antlr3.Runtime.pdb
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\Newtonsoft.Json.xml
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\obj\Debug\UretimTa.AFF3CBE5.Up2Date
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\obj\Debug\UretimTakipSistemi.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\obj\Debug\UretimTakipSistemi.pdb
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\EPPlus.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\EPPlus.Interfaces.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\EPPlus.System.Drawing.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\System.ComponentModel.Annotations.dll
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\EPPlus.xml
+C:\Users\berkay.topaloglu\source\repos\UretimTakipSistemi\UretimTakipSistemi\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\UretimTakipSistemi.dll.config
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\UretimTakipSistemi.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\UretimTakipSistemi.pdb
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\csc.exe
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\csc.exe.config
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\csc.rsp
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\csi.exe
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\csi.exe.config
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\csi.rsp
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\System.Buffers.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\System.Memory.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\vbc.exe
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\vbc.exe.config
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\vbc.rsp
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\VBCSCompiler.exe
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\Antlr3.Runtime.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\EPPlus.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\EPPlus.Interfaces.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\EPPlus.System.Drawing.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\Microsoft.Owin.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\Newtonsoft.Json.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\Owin.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\System.ComponentModel.Annotations.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\System.Net.Http.Formatting.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\System.Web.Http.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\System.Web.Http.Owin.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\System.Web.Http.WebHost.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\WebGrease.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\Antlr3.Runtime.pdb
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\EPPlus.xml
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\Microsoft.Owin.xml
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\Newtonsoft.Json.xml
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\System.Net.Http.Formatting.xml
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\System.Web.Http.xml
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\System.Web.Http.Owin.xml
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\bin\System.Web.Http.WebHost.xml
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\obj\Debug\UretimTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\obj\Debug\UretimTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\obj\Debug\UretimTa.AFF3CBE5.Up2Date
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\obj\Debug\UretimTakipSistemi.dll
+C:\Users\berkay.topaloglu\Documents\ORTAK BERKAY\UretimTakipSistemi\UretimTakipSistemi\obj\Debug\UretimTakipSistemi.pdb

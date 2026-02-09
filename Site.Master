@@ -1,0 +1,234 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Master.cs" Inherits="UretimTakipSistemi.SiteMaster" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>Üretim Takip Sistemi</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f5f5f5;
+        }
+        
+        /* Header */
+        .header {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            padding: 15px 20px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1001;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .header-left {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+        .menu-toggle {
+            background: rgba(255,255,255,0.2);
+            border: none;
+            color: white;
+            font-size: 24px;
+            width: 40px;
+            height: 40px;
+            border-radius: 4px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s;
+        }
+        .menu-toggle:hover {
+            background: rgba(255,255,255,0.3);
+        }
+        .logo {
+            font-size: 20px;
+            font-weight: bold;
+        }
+        .user-info {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            font-size: 14px;
+        }
+        .logout-btn {
+            background: rgba(255,255,255,0.2);
+            border: 1px solid white;
+            color: white;
+            padding: 6px 12px;
+            border-radius: 4px;
+            cursor: pointer;
+            text-decoration: none;
+            font-size: 13px;
+            transition: all 0.3s;
+        }
+        .logout-btn:hover {
+            background: rgba(255,255,255,0.3);
+        }
+        
+        /* Sidebar Menu */
+        .sidebar {
+            position: fixed;
+            top: 70px;
+            left: -280px;
+            width: 280px;
+            height: calc(100vh - 70px);
+            background: white;
+            box-shadow: 2px 0 10px rgba(0,0,0,0.1);
+            transition: left 0.3s ease;
+            z-index: 1000;
+            overflow-y: auto;
+        }
+        .sidebar.open {
+            left: 0;
+        }
+        .sidebar-overlay {
+            position: fixed;
+            top: 70px;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.5);
+            display: none;
+            z-index: 999;
+        }
+        .sidebar-overlay.show {
+            display: block;
+        }
+        
+        /* Menu Items */
+        .menu-section {
+            border-bottom: 1px solid #e0e0e0;
+        }
+        .menu-section-title {
+            background: #f5f5f5;
+            padding: 12px 20px;
+            font-size: 12px;
+            font-weight: bold;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .menu-item {
+            display: block;
+            padding: 15px 20px;
+            color: #333;
+            text-decoration: none;
+            font-size: 14px;
+            transition: all 0.3s;
+            border-left: 3px solid transparent;
+        }
+        .menu-item:hover {
+            background: #f5f5f5;
+            border-left-color: #1e3c72;
+            padding-left: 25px;
+        }
+        .menu-item.active {
+            background: #e3f2fd;
+            border-left-color: #1e3c72;
+            color: #1e3c72;
+            font-weight: 600;
+        }
+        
+        /* Content */
+        .content {
+            margin-top: 70px;
+            padding: 20px;
+            transition: margin-left 0.3s ease;
+        }
+        
+        /* Desktop: Menü her zaman açık */
+        @media (min-width: 1024px) {
+            .menu-toggle {
+                display: none;
+            }
+            .sidebar {
+                left: 0;
+            }
+            .sidebar-overlay {
+                display: none !important;
+            }
+            .content {
+                margin-left: 280px;
+            }
+        }
+        
+        /* Mobile: Menü kapalı */
+        @media (max-width: 1023px) {
+            .logo {
+                font-size: 16px;
+            }
+            .user-info span {
+                display: none;
+            }
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager runat="server" ID="ScriptManager1" EnablePageMethods="true"></asp:ScriptManager>
+        
+        <!-- Header -->
+        <div class="header">
+            <div class="header-left">
+                <button type="button" class="menu-toggle" onclick="toggleMenu()">☰</button>
+                <div class="logo">🏭 Üretim Takip</div>
+            </div>
+            <div class="user-info">
+                <span><asp:Literal ID="litKullanici" runat="server"></asp:Literal></span>
+                <asp:LinkButton ID="btnCikis" runat="server" CssClass="logout-btn" OnClick="btnCikis_Click">
+                    🚪 Çıkış
+                </asp:LinkButton>
+            </div>
+        </div>
+
+        <!-- Sidebar Overlay -->
+        <div class="sidebar-overlay" onclick="toggleMenu()"></div>
+
+        <!-- Sidebar Menu -->
+        <div class="sidebar" id="sidebar">
+            <div id="menuList" runat="server"></div>
+        </div>
+
+        <!-- Content -->
+        <div class="content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+
+    <script type="text/javascript">
+        function toggleMenu() {
+            var sidebar = document.getElementById('sidebar');
+            var overlay = document.querySelector('.sidebar-overlay');
+            
+            sidebar.classList.toggle('open');
+            overlay.classList.toggle('show');
+        }
+
+        // Menü linkine tıklayınca mobilde kapat
+        if (window.innerWidth < 1024) {
+            document.querySelectorAll('.menu-item').forEach(function(item) {
+                item.addEventListener('click', function() {
+                    toggleMenu();
+                });
+            });
+        }
+    </script>
+</body>
+</html>

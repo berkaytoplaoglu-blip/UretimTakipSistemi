@@ -1,0 +1,32 @@
+﻿$apiKey = "BERKAY123456"
+$bas = "2026-02-01"
+$bit = "2026-02-06"
+$url = "https://localhost:44312/api/enjeksiyon/isemri-toplam?bas=$bas&bit=$bit"
+
+Invoke-RestMethod -Method GET -Uri $url -Headers @{
+  "X-API-KEY" = $apiKey
+}
+/////////////////////////////////////////////////////   Tarihleri değiştirerek hızlı test
+
+$apiKey = "BERKAY123456"
+$url = "https://localhost:44312/api/enjeksiyon/isemri-toplam?bas=2026-02-01&bit=2026-02-05"
+
+Invoke-RestMethod -Method GET -Uri $url -Headers @{
+  "X-API-KEY" = $apiKey
+} | ConvertTo-Json -Depth 10
+
+////////////////////////////////////////////////////    Çıktıyı JSON gibi düzgün görmek
+
+$apiKey = "BERKAY123456"
+
+//////////////////////////////////////////////////        # 1) isemri-toplam
+
+$url1 = "https://localhost:44312/api/enjeksiyon/isemri-toplam?bas=2026-02-01&bit=2026-02-05"
+Invoke-RestMethod -Method GET -Uri $url1 -Headers @{ "X-API-KEY" = $apiKey }
+
+//////////////////////////////////////////////////        # 2) is-emri-parca
+
+$url2 = "https://localhost:44312/api/enjeksiyon/is-emri-parca"
+Invoke-RestMethod -Method GET -Uri $url2 -Headers @{ "X-API-KEY" = $apiKey }
+
+
